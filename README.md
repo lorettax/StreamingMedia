@@ -1,5 +1,5 @@
-# StreamingMedia
-#### 流媒体小项目，基于Server/Client模型（CS）开发，实现可以播放MP3格式的音乐广播系统。
+# 流媒体服务器系统
+#### 基于Server/Client模型（CS）开发，实现可以播放MP3格式的音乐广播系统。
 
 ### 需求设计和分析：
 
